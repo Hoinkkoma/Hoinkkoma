@@ -1,4 +1,4 @@
-# 👋 Moin Moin auf meinem GitHub!
+# 👋 Moin Moin  Leude auf meinem GitHub!
 
 Ich bin **Hoinkkoma**, ein Python-Linux und Docker-Enthusiast und Fan  aus  Deutschland.
 All das tuhe ich nur zum Spaß
