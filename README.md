@@ -6,7 +6,7 @@ Ich bin **Hoinkkoma**, ein Python-Linux und Docker-Enthusiast aus Niedersachsen,
 
 ## 🚀 Über mich
 
-- 🐍 **Python Developer** – Backend, Automatisierung, alles was Spaß macht
+- 🐍 **Python fan** – Backend, Automatisierung, alles was Spaß macht
 - 🐳 **Docker & Container** – DevOps und Infrastruktur
 - 🐧 **Linux Fan** – Debian & Fedora sind meine Begleiter
 - 🍓 **Raspberry Pi** – IoT und Hardware-Projekte
