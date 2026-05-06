@@ -1,4 +1,4 @@
-# 👋 Willkommen auf meinem GitHub!
+# 👋 Moin Moin auf meinem GitHub!
 
 Ich bin **Hoinkkoma**, ein Python-Linux und Docker-Enthusiast aus Niedersachsen, Deutschland.
 
@@ -54,7 +54,7 @@ Ich bin **Hoinkkoma**, ein Python-Linux und Docker-Enthusiast aus Niedersachsen,
 - [ ] ROS (Robot Operating System) Entwicklung
 - [ ] Linux-Systemadministration
 - [ ] Grundlagen der Systemintegration
-
+ 
 ---
 
 ## 📊 GitHub-Statistiken
