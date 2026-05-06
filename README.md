@@ -1,59 +1,76 @@
-👋 Hey, willkommen auf meinem GitHub!
-Ich bin Hoinkkoma , ein Python- und Docker-Enthusiast aus Niedersachsen, Deutschland. Hier findest du meine Projekte, Experimente und alles, woran ich gerade rumbastle.
+# 👋 Willkommen auf meinem GitHub!
 
-🚀 Über mich
-🐍 Ich code gerne in Python – Backend, Automatisierung, alles was Spaß macht
-🐳 Docker & Container sind meine Freunde
-🐧 Linux Fan (Debian & Fedora sind meine Begleiter)
-🍓 Arbeite gerne mit Raspberry Pi – IoT und Hardware-Projekte
-🎨 Teil der Tinkecult-Community
-💡 Ich mag sauberen Code und gute Praktiken
-📍Zuhause in Niedersachsen, Deutschland
-💻 Mein Tech-Stack
-Programmiersprachen
-Python
+Ich bin **Hoinkkoma**, ein Python- und Docker-Enthusiast aus Niedersachsen, Deutschland.
 
-Werkzeuge und Plattformen
-Docker Linux Debian Linux Fedora Raspberry Pi
+---
 
-🎯 Meine Projekte
-🤖 Robotik & ROS
-TurtleBot3 Burger - TurtleBot3 Burger Robotik-Sachen und ROS-Experimente
-Fedora Ultramarin - Fedora Ultramarin Systeme und Container-Stuff
-🌐 Web & Server
-Homlap aufbauen – Meine Homlap zum Leben erwecken
-Trunass Server - Server-Setup mit Trunass
-Python & Automatisierung
-Python-Automatisierung – Python-Skripte für alles Mögliche
-Docker Compose Setups - Docker-Beispiele und Setups
-📊 GitHub-Statistiken
+## 🚀 Über mich
 
+- 🐍 **Python Developer** – Backend, Automatisierung, alles was Spaß macht
+- 🐳 **Docker & Container** – DevOps und Infrastruktur
+- 🐧 **Linux Fan** – Debian & Fedora sind meine Begleiter
+- 🍓 **Raspberry Pi** – IoT und Hardware-Projekte
+- 🎨 **Tinkercut-Community** – Teil einer kreativen Maker-Community
+- 💡 **Code Quality** – Sauberer Code und Best Practices sind mir wichtig
 
-🎓 Gerade am Lernen
-Python Patterns & Best Practices vertiefen
-Kubernetes & Container-Orchestrierung
-ROS (Robot Operating System) Entwicklung
-Linux-Systemadministration
-Grundlagen der Systemintegration
+**📍 Zuhause:** Niedersachsen, Deutschland
 
-🌐 Lass uns verbinden!
-GitHub Instagram Reddit
+---
 
-⭐ Wenn dir was gefällt, gib gerne einen Star!
+## 💻 Tech-Stack
 
-Zuletzt aktualisiert: 06.05.2026
+### Programmiersprachen
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 
-<!--
-**Hoinkkoma/Hoinkkoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tools & Plattformen
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22082?style=flat-square&logo=raspberry%20pi&logoColor=white)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Meine Projekte
+
+### 🤖 Robotik & ROS
+- **TurtleBot3 Burger** – Robotik-Experimente und ROS-Projekte
+- **Fedora Ultramarin** – Containersysteme und Linux-Distribution
+
+### 🌐 Web & Server
+- **Homlap** – Heimnetzwerk-Projekt
+- **Trunass Server** – Server-Setup und Administration
+
+### 🐍 Python & Automatisierung
+- **Python-Automatisierung** – Utility-Skripte und Automation
+- **Docker Compose Setups** – Container-Orchestrierung Beispiele
+
+---
+
+## 🎓 Gerade am Lernen
+
+- [ ] Python Patterns & Best Practices vertiefen
+- [ ] Kubernetes & Container-Orchestrierung
+- [ ] ROS (Robot Operating System) Entwicklung
+- [ ] Linux-Systemadministration
+- [ ] Grundlagen der Systemintegration
+
+---
+
+## 📊 GitHub-Statistiken
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hoinkkoma&show_icons=true&theme=dark)
+
+---
+
+## 🌐 Lass uns verbinden!
+
+- [GitHub](https://github.com/Hoinkkoma)
+- [Instagram](https://instagram.com)
+- [Reddit](https://reddit.com)
+
+---
+
+⭐ **Wenn dir was gefällt, gib gerne einen Star!**
+
+*Zuletzt aktualisiert: 06.05.2026*
