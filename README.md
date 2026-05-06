@@ -35,6 +35,7 @@ Kubernetes & Container-Orchestrierung
 ROS (Robot Operating System) Entwicklung
 Linux-Systemadministration
 Grundlagen der Systemintegration
+
 🌐 Lass uns verbinden!
 GitHub Instagram Reddit
 
