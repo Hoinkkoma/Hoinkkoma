@@ -8,9 +8,9 @@ Ich bin **Hoinkkoma**, ein Python- und Docker-Enthusiast aus Niedersachsen, Deut
 
 - 🐍 **Python Developer** – Backend, Automatisierung, alles was Spaß macht
 - 🐳 **Docker & Container** – DevOps und Infrastruktur
-- 🐧 **Linux Fan** – Debian & Fedora sind meine Begleiter
+- 🐧 **Linux F** – Debian & Fedora sind meine Begleiter
 - 🍓 **Raspberry Pi** – IoT und Hardware-Projekte
-- 🎨 **Tinkercut-Community** – Teil einer kreativen Maker-Community
+- 🎨 **Tinkkult-Community** – Teil einer kreativen Maker-Community
 - 💡 **Code Quality** – Sauberer Code und Best Practices sind mir wichtig
 
 **📍 Zuhause:** Niedersachsen, Deutschland
