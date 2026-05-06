@@ -6,7 +6,7 @@ Ich bin Hoinkkoma , ein Python- und Docker-Enthusiast aus Niedersachsen, Deutsch
 🐳 Docker & Container sind meine Freunde
 🐧 Linux Fan (Debian & Fedora sind meine Begleiter)
 🍓 Arbeite gerne mit Raspberry Pi – IoT und Hardware-Projekte
-🎨 Teil der Tinkercut-Community
+🎨 Teil der Tinkecult-Community
 💡 Ich mag sauberen Code und gute Praktiken
 📍Zuhause in Niedersachsen, Deutschland
 💻 Mein Tech-Stack
@@ -21,15 +21,13 @@ Docker Linux Debian Linux Fedora Raspberry Pi
 TurtleBot3 Burger - TurtleBot3 Burger Robotik-Sachen und ROS-Experimente
 Fedora Ultramarin - Fedora Ultramarin Systeme und Container-Stuff
 🌐 Web & Server
-Homlap aufbauen – Meine Homlap am Leben erwecken
+Homlap aufbauen – Meine Homlap zum Leben erwecken
 Trunass Server - Server-Setup mit Trunass
 Python & Automatisierung
 Python-Automatisierung – Python-Skripte für alles Mögliche
 Docker Compose Setups - Docker-Beispiele und Setups
 📊 GitHub-Statistiken
-GitHub-Statistiken
 
-Beliebteste Sprachen
 
 🎓 Gerade am Lernen
 Python Patterns & Best Practices vertiefen
