@@ -1,6 +1,6 @@
 # 👋 Willkommen auf meinem GitHub!
 
-Ich bin **Hoinkkoma**, ein Python- und Docker-Enthusiast aus Niedersachsen, Deutschland.
+Ich bin **Hoinkkoma**, ein Python-Linux und Docker-Enthusiast aus Niedersachsen, Deutschland.
 
 ---
 
