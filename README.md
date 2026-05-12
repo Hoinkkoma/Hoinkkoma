@@ -66,7 +66,6 @@ All das tuhe ich nur zum Spaß
 ## 🌐 Lass uns verbinden!
 
 - [GitHub](https://github.com/Hoinkkoma)
-- [Instagram](https://instagram.com)
 - [Reddit](https://reddit.com)
 
 ---
