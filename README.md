@@ -13,7 +13,7 @@ All das tuhe ich nur zum Spaß
 - 🎨 **Tinkkult-Community** – Teil einene internet-kultes
 - 💡 **Code Quality** – Sauberer Code und Best Practices sind mir wichtig
 
-**📍 Zuhause:** Niedersachsen, Deutschland
+**📍 Zuhause:**  Deutschland
 
 ---
 
