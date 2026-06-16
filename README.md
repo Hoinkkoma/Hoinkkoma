@@ -40,6 +40,7 @@ All das tuhe ich nur zum Spaß
 ### 🌐 Web & Server
 - **Homlap** – Heimnetzwerk-Projekt
 - **Trunass Server** – Server-Setup und Administration
+- *proxmox Server**  – Server-Setup und Administration
 
 ### 🐍 Python & Automatisierung
 - **Python-Automatisierung** – Utility-Skripte und Automation
